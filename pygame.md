@@ -11,6 +11,8 @@ I have a lot of projects in which I have used a python library called [pygame](h
     -   `pip install pygame` should work for most people
 -   Access to terminal
 
+<br />
+
 1. Clone the repository
     - `git clone https://github.com/ArjunSahlot/[REPO].git`
     - If you don't have git installed, you could download zip and unzip
