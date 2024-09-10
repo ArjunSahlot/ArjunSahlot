@@ -2,4 +2,4 @@
 
 i use linux btw
 
-i use vim btw
+i use (neo)vim btw
